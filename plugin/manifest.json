@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "io.github.mohuddle.captions",
+  "name": "Captions",
+  "version": "0.1.0",
+  "author": "mohuddle",
+  "description": "Live captions of speaker audio via PipeWire and sherpa-onnx.",
+  "license": "MIT",
+  "tags": ["captions", "accessibility", "speech"],
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": {
+    "displayName": "Captions",
+    "description": "Caption whatever is playing on the speakers",
+    "category": "Widgets",
+    "allowMultiple": false,
+    "defaultSection": "right"
+  }
+}
