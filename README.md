@@ -74,3 +74,6 @@ captions setup
 ## License
 
 MIT. ASR runtime is Apache-2.0 sherpa-onnx; the default model is from the k2-fsa / icefall exports.
+
+---
+Made by [Mobitecture](https://github.com/mohuddle) · apps, architected.
